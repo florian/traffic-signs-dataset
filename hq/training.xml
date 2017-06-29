@@ -1,0 +1,90 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<?xml-stylesheet type='text/xsl' href='image_metadata_stylesheet.xsl'?>
+<dataset>
+<name>imglab dataset</name>
+<comment>Created by imglab tool.</comment>
+<images>
+  <image file='Documents/study/SoSe17/softwareProject/traffic-signs-dataset/hq/IMG_4426.JPG'>
+    <box top='556' left='1305' width='613' height='500'/>
+  </image>
+  <image file='Documents/study/SoSe17/softwareProject/traffic-signs-dataset/hq/IMG_4427.JPG'>
+    <box top='833' left='1698' width='361' height='367'/>
+  </image>
+  <image file='Documents/study/SoSe17/softwareProject/traffic-signs-dataset/hq/IMG_4428.JPG'>
+    <box top='903' left='1362' width='461' height='394'/>
+  </image>
+  <image file='Documents/study/SoSe17/softwareProject/traffic-signs-dataset/hq/IMG_4429.JPG'>
+    <box top='728' left='1557' width='474' height='392'/>
+  </image>
+  <image file='Documents/study/SoSe17/softwareProject/traffic-signs-dataset/hq/IMG_4430.JPG'>
+    <box top='742' left='1381' width='452' height='428'/>
+  </image>
+  <image file='Documents/study/SoSe17/softwareProject/traffic-signs-dataset/hq/IMG_4431.JPG'>
+    <box top='770' left='1718' width='368' height='468'/>
+  </image>
+  <image file='Documents/study/SoSe17/softwareProject/traffic-signs-dataset/hq/IMG_4432.JPG'>
+    <box top='873' left='1971' width='271' height='437'/>
+  </image>
+  <image file='Documents/study/SoSe17/softwareProject/traffic-signs-dataset/hq/IMG_4433.JPG'>
+    <box top='644' left='1697' width='360' height='364'/>
+  </image>
+  <image file='Documents/study/SoSe17/softwareProject/traffic-signs-dataset/hq/IMG_4434.JPG'>
+    <box top='1166' left='1402' width='376' height='597'/>
+  </image>
+  <image file='Documents/study/SoSe17/softwareProject/traffic-signs-dataset/hq/IMG_4435.JPG'>
+    <box top='1166' left='1490' width='589' height='582'/>
+  </image>
+  <image file='Documents/study/SoSe17/softwareProject/traffic-signs-dataset/hq/IMG_4436.JPG'>
+    <box top='1248' left='1934' width='740' height='691'/>
+  </image>
+  <image file='Documents/study/SoSe17/softwareProject/traffic-signs-dataset/hq/IMG_4437.JPG'>
+    <box top='1277' left='1439' width='366' height='470'/>
+  </image>
+  <image file='Documents/study/SoSe17/softwareProject/traffic-signs-dataset/hq/IMG_4438.JPG'>
+    <box top='974' left='1209' width='408' height='413'/>
+  </image>
+  <image file='Documents/study/SoSe17/softwareProject/traffic-signs-dataset/hq/IMG_4439.JPG'>
+    <box top='837' left='1637' width='573' height='460'/>
+  </image>
+  <image file='Documents/study/SoSe17/softwareProject/traffic-signs-dataset/hq/IMG_4440.JPG'>
+    <box top='990' left='2064' width='283' height='489'/>
+    <box top='667' left='2620' width='122' height='163'/>
+  </image>
+  <image file='Documents/study/SoSe17/softwareProject/traffic-signs-dataset/hq/IMG_4441.JPG'>
+    <box top='859' left='1603' width='396' height='397'/>
+  </image>
+  <image file='Documents/study/SoSe17/softwareProject/traffic-signs-dataset/hq/IMG_4442.JPG'>
+    <box top='1112' left='1649' width='304' height='334'/>
+  </image>
+  <image file='Documents/study/SoSe17/softwareProject/traffic-signs-dataset/hq/IMG_4443.JPG'>
+    <box top='1080' left='1317' width='366' height='312'/>
+  </image>
+  <image file='Documents/study/SoSe17/softwareProject/traffic-signs-dataset/hq/IMG_4444.JPG'>
+    <box top='970' left='1990' width='305' height='279'/>
+  </image>
+  <image file='Documents/study/SoSe17/softwareProject/traffic-signs-dataset/hq/IMG_4445.JPG'>
+    <box top='1134' left='1724' width='213' height='309'/>
+  </image>
+  <image file='Documents/study/SoSe17/softwareProject/traffic-signs-dataset/hq/IMG_4446.JPG'>
+    <box top='980' left='2025' width='270' height='372'/>
+  </image>
+  <image file='Documents/study/SoSe17/softwareProject/traffic-signs-dataset/hq/IMG_4447.JPG'>
+    <box top='1004' left='1541' width='368' height='334'/>
+  </image>
+  <image file='Documents/study/SoSe17/softwareProject/traffic-signs-dataset/hq/IMG_4448.JPG'>
+    <box top='764' left='1559' width='358' height='346'/>
+  </image>
+  <image file='Documents/study/SoSe17/softwareProject/traffic-signs-dataset/hq/IMG_4449.JPG'>
+    <box top='603' left='1339' width='309' height='340'/>
+  </image>
+  <image file='Documents/study/SoSe17/softwareProject/traffic-signs-dataset/hq/IMG_4450.JPG'>
+    <box top='959' left='1777' width='273' height='349'/>
+  </image>
+  <image file='Documents/study/SoSe17/softwareProject/traffic-signs-dataset/hq/IMG_4451.JPG'>
+    <box top='732' left='1840' width='337' height='306'/>
+  </image>
+  <image file='Documents/study/SoSe17/softwareProject/traffic-signs-dataset/hq/IMG_4453.JPG'>
+    <box top='977' left='1225' width='459' height='597'/>
+  </image>
+</images>
+</dataset>
