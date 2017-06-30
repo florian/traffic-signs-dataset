@@ -1,0 +1,225 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<?xml-stylesheet type='text/xsl' href='image_metadata_stylesheet.xsl'?>
+<dataset>
+<name>imglab dataset</name>
+<comment>Created by imglab tool.</comment>
+<images>
+  <image file='00032.jpg'>
+    <box top='678' left='443' width='29' height='26'/>
+  </image>
+  <image file='00646.jpg'>
+    <box top='1059' left='440' width='31' height='29'/>
+    <box top='560' left='434' width='30' height='26'/>
+  </image>
+  <image file='00470.jpg'>
+    <box top='904' left='514' width='34' height='35'/>
+  </image>
+  <image file='00813.jpg'>
+    <box top='913' left='147' width='109' height='103'/>
+  </image>
+  <image file='00177.jpg'>
+    <box top='1271' left='402' width='37' height='35'/>
+  </image>
+  <image file='00025.jpg'>
+    <box top='731' left='422' width='41' height='37'/>
+  </image>
+  <image file='00798.jpg'>
+    <box top='1090' left='445' width='72' height='64'/>
+  </image>
+  <image file='00721.jpg'>
+    <box top='901' left='354' width='34' height='31'/>
+  </image>
+  <image file='00737.jpg'>
+    <box top='603' left='444' width='35' height='32'/>
+    <box top='470' left='449' width='37' height='34'/>
+  </image>
+  <image file='00447.jpg'>
+    <box top='1182' left='418' width='86' height='77'/>
+  </image>
+  <image file='00196.jpg'>
+    <box top='726' left='316' width='61' height='54'/>
+  </image>
+  <image file='00078.jpg'>
+    <box top='800' left='462' width='21' height='21'/>
+  </image>
+  <image file='00482.jpg'>
+    <box top='1055' left='566' width='16' height='21'/>
+  </image>
+  <image file='00388.jpg'>
+    <box top='1274' left='497' width='72' height='64'/>
+  </image>
+  <image file='00744.jpg'>
+    <box top='1155' left='536' width='28' height='28'/>
+  </image>
+  <image file='00619.jpg'>
+    <box top='841' left='415' width='39' height='35'/>
+  </image>
+  <image file='00421.jpg'>
+    <box top='946' left='554' width='30' height='27'/>
+  </image>
+  <image file='00209.jpg'>
+    <box top='1097' left='210' width='87' height='77'/>
+  </image>
+  <image file='00675.jpg'>
+    <box top='1008' left='388' width='35' height='34'/>
+  </image>
+  <image file='00430.jpg'>
+    <box top='929' left='414' width='79' height='74'/>
+  </image>
+  <image file='00465.jpg'>
+    <box top='1241' left='315' width='90' height='80'/>
+  </image>
+  <image file='00771.jpg'>
+    <box top='867' left='478' width='50' height='45'/>
+    <box top='153' left='536' width='51' height='47'/>
+  </image>
+  <image file='00083.jpg'>
+    <box top='1054' left='208' width='98' height='88'/>
+  </image>
+  <image file='00853.jpg'>
+    <box top='935' left='383' width='37' height='34'/>
+  </image>
+  <image file='00081.jpg'>
+    <box top='966' left='228' width='78' height='71'/>
+  </image>
+  <image file='00091.jpg'>
+    <box top='869' left='443' width='30' height='28'/>
+    <box top='1056' left='377' width='40' height='37'/>
+    <box top='509' left='382' width='44' height='40'/>
+  </image>
+  <image file='00557.jpg'>
+    <box top='458' left='461' width='48' height='47'/>
+  </image>
+  <image file='00374.jpg'>
+    <box top='999' left='527' width='32' height='33'/>
+  </image>
+  <image file='00098.jpg'>
+    <box top='1206' left='244' width='90' height='79'/>
+    <box top='594' left='286' width='74' height='67'/>
+  </image>
+  <image file='00035.jpg'>
+    <box top='678' left='439' width='36' height='35'/>
+  </image>
+  <image file='00449.jpg'>
+    <box top='212' left='468' width='42' height='39'/>
+    <box top='812' left='448' width='41' height='38'/>
+  </image>
+  <image file='00836.jpg'>
+    <box top='57' left='363' width='35' height='32'/>
+  </image>
+  <image file='00782.jpg'>
+    <box top='1007' left='455' width='45' height='42'/>
+    <box top='225' left='454' width='54' height='48'/>
+  </image>
+  <image file='00499.jpg'>
+    <box top='1009' left='497' width='47' height='42'/>
+  </image>
+  <image file='00102.jpg'>
+    <box top='933' left='314' width='57' height='51'/>
+  </image>
+  <image file='00375.jpg'>
+    <box top='1229' left='521' width='26' height='24'/>
+  </image>
+  <image file='00479.jpg'>
+    <box top='982' left='498' width='43' height='41'/>
+  </image>
+  <image file='00001.jpg'>
+    <box top='973' left='335' width='58' height='55'/>
+  </image>
+  <image file='00024.jpg'>
+    <box top='112' left='463' width='31' height='29'/>
+  </image>
+  <image file='00242.jpg'>
+    <box top='1195' left='267' width='107' height='99'/>
+  </image>
+  <image file='00762.jpg'>
+    <box top='334' left='378' width='67' height='60'/>
+    <box top='1154' left='405' width='64' height='60'/>
+  </image>
+  <image file='00278.jpg'>
+    <box top='915' left='354' width='40' height='36'/>
+  </image>
+  <image file='00206.jpg'>
+    <box top='55' left='8' width='109' height='95'/>
+    <box top='1144' left='118' width='91' height='78'/>
+  </image>
+  <image file='00663.jpg'>
+    <box top='830' left='307' width='66' height='60'/>
+  </image>
+  <image file='00466.jpg'>
+    <box top='1215' left='399' width='52' height='44'/>
+    <box top='514' left='468' width='34' height='29'/>
+  </image>
+  <image file='00672.jpg'>
+    <box top='892' left='325' width='58' height='51'/>
+    <box top='123' left='265' width='71' height='63'/>
+  </image>
+  <image file='00797.jpg'>
+    <box top='391' left='466' width='37' height='34'/>
+    <box top='822' left='417' width='46' height='40'/>
+  </image>
+  <image file='00785.jpg'>
+    <box top='504' left='397' width='44' height='38'/>
+    <box top='996' left='428' width='44' height='42'/>
+  </image>
+  <image file='00678.jpg'>
+    <box top='698' left='403' width='44' height='42'/>
+  </image>
+  <image file='00490.jpg'>
+    <box top='842' left='516' width='28' height='23'/>
+  </image>
+  <image file='00341.jpg'>
+    <box top='923' left='465' width='74' height='68'/>
+  </image>
+  <image file='00823.jpg'>
+    <box top='1062' left='379' width='32' height='29'/>
+  </image>
+  <image file='00048.jpg'>
+    <box top='771' left='405' width='44' height='38'/>
+  </image>
+  <image file='00751.jpg'>
+    <box top='725' left='568' width='30' height='28'/>
+  </image>
+  <image file='00050.jpg'>
+    <box top='941' left='339' width='31' height='33'/>
+  </image>
+  <image file='00104.jpg'>
+    <box top='695' left='461' width='35' height='31'/>
+  </image>
+  <image file='00097.jpg'>
+    <box top='1125' left='338' width='43' height='40'/>
+    <box top='288' left='328' width='46' height='40'/>
+  </image>
+  <image file='00232.jpg'>
+    <box top='868' left='379' width='42' height='40'/>
+    <box top='297' left='420' width='43' height='39'/>
+  </image>
+  <image file='00090.jpg'>
+    <box top='966' left='428' width='41' height='36'/>
+  </image>
+  <image file='00092.jpg'>
+    <box top='718' left='440' width='21' height='22'/>
+  </image>
+  <image file='00068.jpg'>
+    <box top='849' left='458' width='23' height='21'/>
+  </image>
+  <image file='00740.jpg'>
+    <box top='1071' left='554' width='23' height='23'/>
+  </image>
+  <image file='00201.jpg'>
+    <box top='762' left='352' width='50' height='45'/>
+  </image>
+  <image file='00040.jpg'>
+    <box top='1017' left='202' width='124' height='111'/>
+  </image>
+  <image file='00219.jpg'>
+    <box top='1080' left='270' width='75' height='70'/>
+  </image>
+  <image file='00857.jpg'>
+    <box top='1129' left='262' width='95' height='87'/>
+  </image>
+  <image file='00700.jpg'>
+    <box top='848' left='348' width='65' height='58'/>
+  </image>
+</images>
+</dataset>
