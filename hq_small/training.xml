@@ -22,9 +22,6 @@
   <image file='IMG_4431.JPG'>
     <box top='288' left='634' width='133' height='167'/>
   </image>
-  <image file='IMG_4432.JPG'>
-    <box top='313' left='726' width='102' height='169'/>
-  </image>
   <image file='IMG_4433.JPG'>
     <box top='232' left='619' width='138' height='137'/>
   </image>
@@ -45,10 +42,6 @@
   </image>
   <image file='IMG_4439.JPG'>
     <box top='294' left='600' width='209' height='190'/>
-  </image>
-  <image file='IMG_4440.JPG'>
-    <box top='357' left='753' width='116' height='190'/>
-    <box top='244' left='963' width='48' height='60'/>
   </image>
   <image file='IMG_4441.JPG'>
     <box top='317' left='585' width='148' height='151'/>

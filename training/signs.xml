@@ -1,0 +1,93 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<?xml-stylesheet type='text/xsl' href='image_metadata_stylesheet.xsl'?>
+<dataset>
+<name>imglab dataset</name>
+<comment>Created by imglab tool.</comment>
+<images>
+  <image file='01.jpg'>
+    <box top='197' left='26' width='71' height='55'/>
+  </image>
+  <image file='02.jpg'>
+    <box top='121' left='364' width='29' height='25'/>
+  </image>
+  <image file='03.jpg'>
+    <box top='211' left='406' width='76' height='69'/>
+  </image>
+  <image file='04.jpg'>
+    <box top='251' left='319' width='44' height='43'/>
+  </image>
+  <image file='05.jpg'>
+    <box top='298' left='22' width='80' height='68'/>
+  </image>
+  <image file='06.jpg'>
+    <box top='302' left='16' width='52' height='45'/>
+    <box top='271' left='180' width='39' height='35'/>
+  </image>
+  <image file='07.jpg'>
+    <box top='298' left='170' width='66' height='61'/>
+  </image>
+  <image file='08.jpg'>
+    <box top='118' left='319' width='32' height='32'/>
+  </image>
+  <image file='09.jpg'>
+    <box top='260' left='150' width='31' height='31'/>
+    <box top='243' left='259' width='33' height='32'/>
+  </image>
+  <image file='10.jpg'>
+    <box top='118' left='364' width='30' height='26'/>
+  </image>
+  <image file='11.jpg'>
+    <box top='148' left='396' width='38' height='49'/>
+  </image>
+  <image file='12.jpg'>
+    <box top='249' left='406' width='45' height='41'/>
+  </image>
+  <image file='13.jpg'>
+    <box top='153' left='235' width='47' height='43'/>
+  </image>
+  <image file='14.jpg'>
+    <box top='289' left='204' width='130' height='109'/>
+  </image>
+  <image file='15.jpg'>
+    <box top='166' left='228' width='50' height='49'/>
+  </image>
+  <image file='16.jpg'>
+    <box top='205' left='529' width='78' height='84'/>
+  </image>
+  <image file='17.jpg'>
+    <box top='154' left='486' width='42' height='37'/>
+  </image>
+  <image file='18.jpg'>
+    <box top='256' left='291' width='44' height='42'/>
+  </image>
+  <image file='19.jpg'>
+    <box top='341' left='80' width='71' height='57'/>
+  </image>
+  <image file='20.jpg'>
+    <box top='300' left='420' width='58' height='71'/>
+  </image>
+  <image file='21.jpg'>
+    <box top='231' left='280' width='26' height='27'/>
+  </image>
+  <image file='22.jpg'>
+    <box top='263' left='494' width='28' height='29'/>
+    <box top='250' left='591' width='28' height='30'/>
+  </image>
+  <image file='23.jpg'>
+    <box top='231' left='567' width='18' height='23'/>
+  </image>
+  <image file='24.jpg'>
+    <box top='231' left='488' width='20' height='25'/>
+  </image>
+  <image file='25.jpg'>
+    <box top='236' left='601' width='25' height='33'/>
+  </image>
+  <image file='26.jpg'>
+    <box top='249' left='546' width='24' height='24'/>
+    <box top='243' left='617' width='21' height='21'/>
+  </image>
+  <image file='27.jpg'>
+    <box top='284' left='45' width='31' height='38'/>
+  </image>
+</images>
+</dataset>
